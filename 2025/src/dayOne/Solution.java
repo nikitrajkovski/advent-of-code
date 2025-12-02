@@ -1,6 +1,8 @@
+package dayOne;
+
 import java.util.Scanner;
 
-public class dayOne {
+public class Solution {
     public static void main(String[] args) {
         int initial = 50;
         int counter = 0;
